@@ -20,14 +20,6 @@ CPS1985 = sm.datasets.get_rdataset("CPS1985",package="AER")
 #converting to dataframe
 data = CPS1985.data
 
-#descriptives
-vars = ['education','experience']
-
-#head:first five observations
-vars[0:1]
-
-#tail :last five observations
-vars[-5:]
 #===========================REGRESSION========================================#
 
 #1.level model
