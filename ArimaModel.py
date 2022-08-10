@@ -2,8 +2,8 @@
 """
 Created on Mon Aug  1 05:42:00 2022
 
-@author: Kkitonga and ewayagi
-content:ARIMA
+@author: Kkitonga 
+content:ARIMA model
 
 """
 #==========================INSTALL PACKAGES===================================#
